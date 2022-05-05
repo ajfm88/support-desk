@@ -1,7 +1,7 @@
 # Support Desk App
 
 Support ticket application built with the MERN stack.
-[Live Demo](about:blank)
+[Live Demo](https://ajfm88supportdesk.herokuapp.com/)
 
 ## Usage
 
